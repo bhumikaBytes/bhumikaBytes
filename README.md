@@ -21,7 +21,27 @@ I'm pursuing my MCA at CCS University and interested in building clean, user-fri
 - 🎯 Interested in accessible, user-friendly digital experiences.
 
 ---
+🎓 Education
 
+Degree
+
+Institution
+
+Duration
+
+MCA (Pursuing)
+
+CCS University, SCRIET, University Campus
+
+2026–2028
+
+B.Sc. Computer Science
+
+CCS University, SCRIET, University Campus
+
+2023–2026
+
+---
 ## 🛠️ Tech Stack
 
 ### 🌐 Web Development
