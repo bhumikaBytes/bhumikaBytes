@@ -22,15 +22,16 @@ I'm pursuing my MCA at CCS University and interested in building clean, user-fri
 
 ---
 
+---
+
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**  
-  CCS University, SCRIET, University Campus  
-  *2026–2028 · Currently Pursuing*
+| Degree | Institution | Duration | Status |
+|---|---|---|---|
+| Master of Computer Applications (MCA) | CCS University, SCRIET, University Campus | 2026–2028 | Pursuing |
+| B.Sc. Computer Science | CCS University, SCRIET, University Campus | 2023–2026 | Graduated |
 
-- **B.Sc. Computer Science**  
-  CCS University, SCRIET, University Campus  
-  *2023–2026 · Graduated*
+
 ---
 
 
